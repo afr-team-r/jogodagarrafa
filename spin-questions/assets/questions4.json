@@ -1,0 +1,128 @@
+{
+	"id":4,
+	"name":"Verdades Difíceis",
+	"enabled":false,
+	"questions": 
+		[
+			{
+				"id": 1,
+				"text": "Qual é o hábito mais irritante do seu(a) namorado(a)?"
+			},
+			{
+				"id": 2,
+				"text": "Quão bem 'dotado' é o seu namorado ou namorada?"
+			},
+			{
+				"id": 3,
+				"text": "Você já fez necessidades nas calças?"
+			},
+			{
+				"id": 4,
+				"text": "Você já foi muito íntimo com alguém em um lugar público?"
+			},
+			{
+				"id": 5,
+				"text": "Qual é a coisa mais constrangedora que você já fez?"
+			},
+			{
+				"id": 6,
+				"text": "Você já traiu seu namorado(a)?"
+			},
+			{
+				"id": 7,
+				"text": "Você ainda é virgem?"
+			},
+			{
+				"id": 8,
+				"text": "Se você tivesse apenas 24 horas de vida,o que você faria?"
+			},
+			{
+				"id": 9,
+				"text": "Se você pudesse teleportar para qualquer lugar, qual seria o primeiro?"
+			},
+			{
+				"id": 10,
+				"text": "Aonde seria uma noite especial?"
+			},
+			{
+				"id": 11,
+				"text": "Você usa drogas?"
+			},
+			{
+				"id": 12,
+				"text": "É verdade que você já beijou (nome de alguém)?"
+			},
+			{
+				"id": 13,
+				"text": "Você é gay?"
+			},
+			{
+				"id": 14,
+				"text": "O que é mais importante: cérebro ou beleza?"
+			},
+			{
+				"id": 15,
+				"text": "Qual a pior atitude que um amigo pode tomar contra você?"
+			},
+			{
+				"id": 16,
+				"text": "Responda: tenho cara de ser __ mas sou __"
+			},
+			{
+				"id": 17,
+				"text": "O que você mais valoriza no ser humano?"
+			},
+			{
+				"id": 18,
+				"text": "Quem você tem medo de perder?"
+			},
+			{
+				"id": 19,
+				"text": "O que é Deus para você?"
+			},
+			{
+				"id": 20,
+				"text": "Com quem foi a última conversa tensa que você teve? Como foi?"
+			},
+			{
+				"id": 21,
+				"text": "Você acha possível amizade entre homem e mulher?"
+			},
+			{
+				"id": 22,
+				"text": "O que é melhor? Amar ou ser amado(a)?"
+			},
+			{
+				"id": 23,
+				"text": "Qual foi o melhor beijo que já deu/recebeu?"
+			},
+			{
+				"id": 24,
+				"text": "Quem da roda você faria de escravo? Qual seria sua primeira ordem?"
+			},
+			{
+				"id": 25,
+				"text": "Se tivesse que trocar de parceiro com um casal da roda, qual seria?"
+			},
+			{
+				"id": 26,
+				"text": "Já contou algum segredo proibido de alguém da roda?"
+			},
+			{
+				"id": 27,
+				"text": "Já namorou com alguém sem gostar da pessoa?"
+			},
+			{
+				"id": 28,
+				"text": "Defina a pessoa a sua esquerda em 1 palavra"
+			},
+			{
+				"id": 29,
+				"text": "O que você não perdoa?"
+			},
+			{
+				"id": 30,
+				"text": "Você é ateu? O que acha sobre eles?"
+			}
+		]
+}

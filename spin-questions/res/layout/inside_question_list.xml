@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background_image"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/titleQUestionsLL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingBottom="3sp"
+        android:paddingLeft="3sp"
+        android:paddingRight="3sp"
+        android:paddingTop="3sp" >
+
+        <TextView
+            android:id="@+id/groupTitle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Group Name"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/addNewQUestionsLL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:paddingBottom="3sp"
+        android:paddingLeft="3sp"
+        android:paddingRight="3sp"
+        android:paddingTop="3sp" >
+
+        <Button
+            android:id="@+id/novaPergunta"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Nova pergunta" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/listQuestionsLL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.3"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/listQuestionsByGroup"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="#00000000" >
+        </ListView>
+    </LinearLayout>
+
+</LinearLayout>

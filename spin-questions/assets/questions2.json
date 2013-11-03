@@ -1,0 +1,120 @@
+{
+	"id":2,
+	"name":"Desafios difíceis",
+	"enabled":false,
+	"questions": 
+		[
+			{
+				"id": 1,
+				"text": "Diga: 'Olá, gatinhas(os)' para um grupinho próximo"
+			},
+			{
+				"id": 2,
+				"text": "Lamba o chão"
+			},
+			{
+				"id": 3,
+				"text": "Faça uma dança com convulsão"
+			},
+			{
+				"id": 4,
+				"text": "Conte um segredo, que ninguém mais saiba, da pessoa que está a sua frente"
+			},
+			{
+				"id": 5,
+				"text": "Imite um Gorila com dor anal"
+			},
+			{
+				"id": 6,
+				"text": "Imite uma puta e ofereça seus serviços para a pessoa a sua esquerda"
+			},
+			{
+				"id": 7,
+				"text": "Plante bananeira, ou somente tente"
+			},
+			{
+				"id": 8,
+				"text": "Faça 20 abdominais"
+			},
+			{
+				"id": 9,
+				"text": "Aperte a campainha do vizinho e corra"
+			},
+			{
+				"id": 10,
+				"text": "Cuspa no chão e lamba"
+			},
+			{
+				"id": 11,
+				"text": "Beba um drink feito pelos seus amigos com 2 ingredientes improváveis"
+			},
+			{
+				"id": 12,
+				"text": "Coloque um gelo em suas calças por 20 segundos"
+			},
+			{
+				"id": 13,
+				"text": "Remove as meias da pessoa à sua direita, usando somente a boca"
+			},
+			{
+				"id": 14,
+				"text": "Cheire os pés de todos da roda e faça um ranking"
+			},
+			{
+				"id": 15,
+				"text": "Dance na boquinha de alguém"
+			},
+			{
+				"id": 16,
+				"text": "Deixe alguma mulher da roda te maquiar"
+			},
+			{
+				"id": 17,
+				"text": "Dance lentamente com a pessoa a sua esquerda"
+			},
+			{
+				"id": 18,
+				"text": "Troque de camisa com uma pessoa do sexo oposto"
+			},
+			{
+				"id": 19,
+				"text": "Deixe o grupo te enfaixar com papel higiênico"
+			},
+			{
+				"id": 20,
+				"text": "Passe um trote"
+			},
+			{
+				"id": 21,
+				"text": "Tire uma meleca do nariz"
+			},
+			{
+				"id": 22,
+				"text": "Deixa a pessoa da sua direita te fazer cócegas por 10 segundos"
+			},
+			{
+				"id": 23,
+				"text": "Vire uma cambalhota"
+			},
+			{
+				"id": 24,
+				"text": "Dance 'É o tchan'"
+			},
+			{
+				"id": 25,
+				"text": "Imite uma foca"
+			},
+			{
+				"id": 26,
+				"text": "Faça o desafio que a pessoa da sua esquerda te mandar"
+			},
+			{
+				"id": 27,
+				"text": "Faça o desafio que a pessoa da sua direita te mandar"
+			},
+			{
+				"id": 28,
+				"text": "Faça o desafio que a pessoa da sua frente te mandar"
+			}
+		]
+}

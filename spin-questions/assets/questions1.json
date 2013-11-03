@@ -1,0 +1,136 @@
+{
+	"id":1,
+	"name":"Desafios Fáceis",
+	"enabled":true,
+	"questions": 
+		[
+			{
+				"id": 1,
+				"text": "Beije na bochecha alguém da roda"
+			},
+			{
+				"id": 2,
+				"text": "Cante a canção que você considera mais irritante"
+			},
+			{
+				"id": 3,
+				"text": "Faça a Dança da Borboleta Louca"
+			},
+			{
+				"id": 4,
+				"text": "Ria como um idiota"
+			},
+			{
+				"id": 5,
+				"text": "Se finja de bêbado"
+			},
+			{
+				"id": 6,
+				"text": "Imite sua sogra"
+			},
+			{
+				"id": 7,
+				"text": "Grite bem alto"
+			},
+			{
+				"id": 8,
+				"text": "Leia seu último SMS recebido para todos"
+			},
+			{
+				"id": 9,
+				"text": "Diga dois defeitos da pessoa a sua esquerda"
+			},
+			{
+				"id": 10,
+				"text": "Beije alguma uma parte do corpo que comece com P da pessoa a sua direita"
+			},
+			{
+				"id": 11,
+				"text": "Diga os defeitos da pessoa que você menos gosta na roda, sem citar nome"
+			},
+			{
+				"id": 12,
+				"text": "Faça 5 abdominais"
+			},
+			{
+				"id": 13,
+				"text": "Cante uma música do Justin Bieber com uma voz grossa"
+			},
+			{
+				"id": 14,
+				"text": "Beba uma dose e gire 5 vezes bem rápido"
+			},
+			{
+				"id": 15,
+				"text": "Imite a pessoa que está a sua esquerda durante uma rodada"
+			},
+			{
+				"id": 16,
+				"text": "Lute com uma pessoa invisível durante 20 segundos"
+			},
+			{
+				"id": 17,
+				"text": "Beije apaixonadamente uma pessoa invisível"
+			},
+			{
+				"id": 18,
+				"text": "Finja estar em uma frigideira e frite no chão"
+			},
+			{
+				"id": 19,
+				"text": "Grite bem alto: “Estou com Papilomavírus”"
+			},
+			{
+				"id": 20,
+				"text": "Imite um cachorro macho fazendo xixi"
+			},
+			{
+				"id": 21,
+				"text": "Imite o nascer do Sol"
+			},
+			{
+				"id": 22,
+				"text": "Cante uma música em árabe"
+			},
+			{
+				"id": 23,
+				"text": "Beba 500ml de água o mais rápido que puder"
+			},
+			{
+				"id": 24,
+				"text": "Cante o hino nacional com voz de travesti"
+			},
+			{
+				"id": 25,
+				"text": "Sente no colo da pessoa a sua direita por 1 rodada"
+			},
+			{
+				"id": 26,
+				"text": "Esvazie seus bolsos e explique cada item"
+			},
+			{
+				"id": 27,
+				"text": "Dance na boquinha da garrafa"
+			},
+			{
+				"id": 28,
+				"text": "Fale sussurrando pelo resto da partida"
+			},
+			{
+				"id": 29,
+				"text": "Use suas meias ou de outras pessoas na orelha por 1 rodada"
+			},
+			{
+				"id": 30,
+				"text": "Dance funk em slow motion"
+			},
+			{
+				"id": 31,
+				"text": "Imite um pião e gire loucamente"
+			},
+			{
+				"id": 32,
+				"text": "Conte um sonho seu"
+			}
+		]
+}

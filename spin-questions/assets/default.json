@@ -1,0 +1,8 @@
+{
+	"gameBottleStyle":1,
+	"gameNumberPlayers":5,
+	"gameRotationSpeed":200,
+	"gameRotationSpins":3,
+	"questionFiles": ["questions1.json", "questions2.json", "questions3.json", "questions4.json", "questions5.json"],
+	"sdLocation":"AFR/spinquestions/"
+}

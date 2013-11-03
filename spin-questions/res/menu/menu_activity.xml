@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/options"
+        android:icon="@drawable/abs__ic_menu_moreoverflow_normal_holo_dark"
+        android:showAsAction="ifRoom"
+        android:title="menu">
+        <menu>
+            <item
+                android:id="@+id/configuracoes"
+                android:showAsAction="ifRoom"
+                android:title="Configurações">
+            </item>
+            
+             <item
+                android:id="@+id/perguntas"
+                android:showAsAction="ifRoom"
+                android:title="Perguntas">
+            </item>
+            
+              <item
+                android:id="@+id/ajuda"
+                android:showAsAction="ifRoom"
+                android:title="Ajuda">
+            </item>
+            
+              <item
+                android:id="@+id/sair"
+                android:showAsAction="ifRoom"
+                android:title="Sair">
+            </item>
+        </menu>
+    </item>
+
+</menu>

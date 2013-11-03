@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="libs/jackson-mapper-asl-1.9.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/jackson-core-asl-1.9.10 .jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="/home/ricardo/Programas/Android SDK/android-sdk-linux/platforms/android-18/android.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

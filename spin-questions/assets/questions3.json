@@ -1,0 +1,444 @@
+{
+	"id":3,
+	"name":"Verdades Fáceis",
+	"enabled":true,
+	"questions": 
+		[
+			{
+				"id": 1,
+				"text": "Quem você mandaria se f#d$r agora?"
+			},
+			{
+				"id": 2,
+				"text": "Qual teu estilo de música?"
+			},
+			{
+				"id": 3,
+				"text": "Qual sua cor preferida?"
+			},
+			{
+				"id": 4,
+				"text": "Você bebe bebida alcoolica?"
+			},
+			{
+				"id": 5,
+				"text": "Teu beijo preferido é?"
+			},
+			{
+				"id": 6,
+				"text": "Qual o lugar você desejaria estar agora?"
+			},
+			{
+				"id": 7,
+				"text": "Refrigerante preferido?"
+			},
+			{
+				"id": 8,
+				"text": "Teu estilo de roupa é?"
+			},
+			{
+				"id": 9,
+				"text": "Beija e abraça ou abraça e beija?"
+			},
+			{
+				"id": 10,
+				"text": "Namorar ou ficar?"
+			},
+			{
+				"id": 11,
+				"text": "Qual seu tipo de comida preferido?"
+			},
+			{
+				"id": 12,
+				"text": "Qual o seu filme preferido?"
+			},
+			{
+				"id": 13,
+				"text": "O que é necessário para conquistar você?"
+			},
+			{
+				"id": 14,
+				"text": "Qual é o sonho mais estranho que você já teve?"
+			},
+			{
+				"id": 15,
+				"text": "Você fuma?"
+			},
+			{
+				"id": 16,
+				"text": "É verdade que voce já viu um filme pornô?"
+			},
+			{
+				"id": 17,
+				"text": "É verdade que voce gosta de Tibia?"
+			},
+			{
+				"id": 18,
+				"text": "Voce gosta de sorvete?"
+			},
+			{
+				"id": 19,
+				"text": "Computador ou notebook?"
+			},
+			{
+				"id": 20,
+				"text": "O que mais você gosta de fazer quando está em casa?"
+			},
+			{
+				"id": 21,
+				"text": "Qual lugar você gostaria de conhecer?"
+			},
+			{
+				"id": 22,
+				"text": "Qual é o seu sonho de consumo?"
+			},
+			{
+				"id": 23,
+				"text": "Tem alguma tatuagem? Se sim, quantas, e em quais locais?"
+			},
+			{
+				"id": 24,
+				"text": "Qual o programa ou série que você mais gosta de assistir na TV?"
+			},
+			{
+				"id": 25,
+				"text": "Se tivesse o poder de mudar o mundo, o que mudaria?"
+			},
+			{
+				"id": 26,
+				"text": "Quais são as suas metas de vida?"
+			},
+			{
+				"id": 27,
+				"text": "Qual a sua música preferida?"
+			},
+			{
+				"id": 28,
+				"text": "Quando foi a última vez que viajou, e pra onde?"
+			},
+			{
+				"id": 29,
+				"text": "Você tem alguma mania? Se sim, qual?"
+			},
+			{
+				"id": 30,
+				"text": "Se pudesse mudar algo em seu corpo, o que mudaria?"
+			},
+			{
+				"id": 31,
+				"text": "Qual o seu prato predileto?"
+			},
+			{
+				"id": 32,
+				"text": "O que mais você odeia que façam com você?"
+			},
+			{
+				"id": 33,
+				"text": "Que tipo de música você gosta de ouvir?"
+			},
+			{
+				"id": 34,
+				"text": "Você tem medo de voar?"
+			},
+			{
+				"id": 35,
+				"text": "Qual foi o último filme que você assistiu e te fez refletir?"
+			},
+			{
+				"id": 36,
+				"text": "Qual é o seu maior sonho e o seu maior medo?"
+			},
+			{
+				"id": 37,
+				"text": "Quando você abre o navegador, qual é o primeiro site que acessa?"
+			},
+			{
+				"id": 38,
+				"text": "Se você pudesse voltar no tempo e mudar alguma coisa, o que mudaria?"
+			},
+			{
+				"id": 39,
+				"text": "Qual a música que não sai da sua cabeça nesse momento?"
+			},
+			{
+				"id": 40,
+				"text": "Qual a primeira coisa que você faz ao abrir os olhos?"
+			},
+			{
+				"id": 41,
+				"text": "O que você faz quando está sozinho(a) no quarto?"
+			},
+			{
+				"id": 42,
+				"text": "Se ganhasse na mega-sena hoje, qual a primeira coisa que faria com o dinheiro?"
+			},
+			{
+				"id": 43,
+				"text": "Qual o lanche que você mais gosta de comer?"
+			},
+			{
+				"id": 44,
+				"text": "A que horas geralmente você vai dormir?"
+			},
+			{
+				"id": 45,
+				"text": "O que não pode faltar na geladeira da sua casa?"
+			},
+			{
+				"id": 46,
+				"text": "Tem alguma alergia? Se sim, a quê?"
+			},
+			{
+				"id": 47,
+				"text": "Já amou alguém?"
+			},
+			{
+				"id": 48,
+				"text": "Qual foi a fase mais difícil da sua vida, e como você reagiu?"
+			},
+			{
+				"id": 49,
+				"text": "Já fez alguma coisa que considerou estúpido? Qual?"
+			},
+			{
+				"id": 50,
+				"text": "Já fez alguma coisa que teve vontade de sair gritando na rua?"
+			},
+			{
+				"id": 51,
+				"text": "Toca algum instrumento musical? Se sim, qual?"
+			},
+			{
+				"id": 52,
+				"text": "O que mais te faz rir?"
+			},
+			{
+				"id": 53,
+				"text": "Praia ou piscina?"
+			},
+			{
+				"id": 54,
+				"text": "Você acredita em amor à primeira vista?"
+			},
+			{
+				"id": 55,
+				"text": "Você gostaria de ser famoso(a)? Se sim, por quê?"
+			},
+			{
+				"id": 56,
+				"text": "O que não pode faltar no seu café da manhã?"
+			},
+			{
+				"id": 57,
+				"text": "Prefere ficar sozinho ou acompanhado?"
+			},
+			{
+				"id": 58,
+				"text": "Você acredita em destino?"
+			},
+			{
+				"id": 59,
+				"text": "Qual o tipo de filme que você mais gosta?"
+			},
+			{
+				"id": 60,
+				"text": "Qual é o bicho que você morre de medo?"
+			},
+			{
+				"id": 61,
+				"text": "Já viajou para fora do país? Se sim, pra onde?"
+			},
+			{
+				"id": 62,
+				"text": "Com quantos anos você deu o seu primeiro beijo?"
+			},
+			{
+				"id": 63,
+				"text": "Quem é a pessoa na roda que mais te irrita?"
+			},
+			{
+				"id": 64,
+				"text": "Você já beijou alguém?"
+			},
+			{
+				"id": 65,
+				"text": "Você beijaria a pessoa a sua direita?"
+			},
+			{
+				"id": 66,
+				"text": "Qual é a roupa mais sexy que você já usou?"
+			},
+			{
+				"id": 67,
+				"text": "Já foi traído?"
+			},
+			{
+				"id": 68,
+				"text": "Você já foi preso?"
+			},
+			{
+				"id": 69,
+				"text": "Você já roubou do trabalho?"
+			},
+			{
+				"id": 70,
+				"text": "Quem foi a pessoa mais bonita que você ficou?"
+			},
+			{
+				"id": 71,
+				"text": "Quando foi a primeira vez que ficou bêbado?"
+			},
+			{
+				"id": 72,
+				"text": "Você já fingiu ficar bêbado?"
+			},
+			{
+				"id": 73,
+				"text": "Já mostrou a bunda em público?"
+			},
+			{
+				"id": 74,
+				"text": "Qual a música que não sai da sua cabeça?"
+			},
+			{
+				"id": 75,
+				"text": "Qual a primeira vez que você fumou?"
+			},
+			{
+				"id": 76,
+				"text": "O que te deixa com mais vergonha?"
+			},
+			{
+				"id": 77,
+				"text": "Onde gostaria de passar suas férias?"
+			},
+			{
+				"id": 78,
+				"text": "Já bateu em alguém?"
+			},
+			{
+				"id": 79,
+				"text": "Qual seu maior medo?"
+			},
+			{
+				"id": 80,
+				"text": "Qual nome dará aos seus filhos?"
+			},
+			{
+				"id": 81,
+				"text": "Qual a coisa mais louca que já fez por dinheiro?"
+			},
+			{
+				"id": 82,
+				"text": "Qual data é mais importante para você? Por quê?"
+			},
+			{
+				"id": 83,
+				"text": "Se tivesse que fazer um desejo agora, qual seria?"
+			},
+			{
+				"id": 84,
+				"text": "Não sai de casa sem o quê?"
+			},
+			{
+				"id": 85,
+				"text": "Se arrepende de algo que já fez? O quê?"
+			},
+			{
+				"id": 86,
+				"text": "Qual sua banda favorita do momento?"
+			},
+			{
+				"id": 87,
+				"text": "Já beijou quantos numa só balada?"
+			},
+			{
+				"id": 88,
+				"text": "Você tem TOC? Qual?"
+			},
+			{
+				"id": 89,
+				"text": "O que te faz ter raiva?"
+			},
+			{
+				"id": 90,
+				"text": "Homem de verdade gosta mesmo é de ___"
+			},
+			{
+				"id": 91,
+				"text": "Gosta de safadeza?"
+			},
+			{
+				"id": 92,
+				"text": "Já sofreu preconceito?"
+			},
+			{
+				"id": 93,
+				"text": "O que você mais odeia?"
+			},
+			{
+				"id": 94,
+				"text": "Qual o carro/moto dos seus sonhos?"
+			},
+			{
+				"id": 95,
+				"text": "Já viajou para outro país?"
+			},
+			{
+				"id": 96,
+				"text": "O que mais gosta de fazer domingo a noite?"
+			},
+			{
+				"id": 97,
+				"text": "Você ainda usa o Orkut?"
+			},
+			{
+				"id": 98,
+				"text": "Que filme você mais gosta?"
+			},
+			{
+				"id": 99,
+				"text": "Que matéria você mais gosta?"
+			},
+			{
+				"id": 100,
+				"text": "Se hoje fosse seu último dia de vida, o que faria?"
+			},
+			{
+				"id": 101,
+				"text": "Qual legume ou verdura você mais gosta?"
+			},
+			{
+				"id": 102,
+				"text": "O que você faz quando ninguém está te vendo?"
+			},
+			{
+				"id": 103,
+				"text": "Já fez uma declaração de amor em público?"
+			},
+			{
+				"id": 104,
+				"text": "O que te atrai no sexo aposto?"
+			},
+			{
+				"id": 105,
+				"text": "Um vídeo que você rí muito quando vê?"
+			},
+			{
+				"id": 106,
+				"text": "O que faz quando tem insônia?"
+			},
+			{
+				"id": 107,
+				"text": "Por que as pessoas mentem?"
+			},
+			{
+				"id": 108,
+				"text": "O que uma mulher de verdade deveria ser capaz de fazer?"
+			},
+			{
+				"id": 109,
+				"text": "Qual o seu signo?"
+			}
+		]
+}
